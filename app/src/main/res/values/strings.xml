@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">物流管理系统</string>
+    <string name="account_placehold">请输入登录名</string>
+    <string name="password_placehold">请输入密码</string>
+    <string name="login_button">登录</string>
+    <string name="exit_button">退出</string>
+    <string name="name_placehold">请输入姓名</string>
+    <string name="already_know">知道了</string>
+    <string name="no_one_konws">没有人知道</string>
+    <string name="some_one_konws">%s知道了</string>
+    <string name="baidu_button">点击按钮进入百度搜索</string>
+    <string name="your_account_msg">"你的账号是：%s"</string>
+    <string name="your_passwd_msg">"你的密码是：%s"</string>
+    <string name="time_now">当前时间是：%s:%s</string>
+
+</resources>
